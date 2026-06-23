@@ -24,7 +24,7 @@ Attualmente sto seguendo un percorso di formazione in **Full Stack Web Developme
 ## Progetti in evidenza
 🔥 **BoolZip** – e-commerce sviluppato con React, Node.js, Express e MySQL.
 <br>
-🌐 **SpecRadar** – comparatore di caratteristiche e prezzi relative a Smartphones sviluppato con React, Node.js e Express.
+🌐 **SpecRadar** – comparatore di caratteristiche e prezzi relative a Smartphones sviluppato con React, JavaScript e TypeScript.
 <br>
 🛠️ Progetti pratici sviluppati durante il mio percorso di formazione. 
 
