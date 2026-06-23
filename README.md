@@ -2,7 +2,7 @@
 
 # Ciao, sono Luca Fiore 🌺
 
-Sono un **Junior Full Stack Web Developer** .
+Sono un **Junior Full Stack Web Developer**.
 Attualmente sto seguendo un percorso di formazione in **Full Stack Web Development**.
 
 ## Frontend
