@@ -1,3 +1,5 @@
+<div align="center">
+
 # Ciao, sono Luca Fiore 🌺
 
 Sono un **Junior Full Stack Web Developer** con background in **Informatica e Tecnologie per la Produzione del Software**.
@@ -21,7 +23,9 @@ Attualmente sto seguendo un percorso di formazione in **Full Stack Web Developme
 
 ## Progetti in evidenza
 🔥 **BoolZip** – e-commerce sviluppato con React, Node.js, Express e MySQL.
+<br>
 🌐 **SpecRadar** – comparatore di caratteristiche e prezzi relative a Smartphones sviluppato con React, Node.js e Express.
+<br>
 🛠️ Progetti pratici sviluppati durante il mio percorso di formazione. 
 
 ## Connect with me
@@ -29,4 +33,6 @@ Attualmente sto seguendo un percorso di formazione in **Full Stack Web Developme
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/luke_fio1?igsh=bW9jbTVocXpzemVr&utm_source=qr)
 
 ⭐ Sempre in crescita, un progetto alla volta.
+
+</div>
 
